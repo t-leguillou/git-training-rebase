@@ -1,0 +1,1 @@
+The project is not a real one, it's just to support practical exercises for a git training
